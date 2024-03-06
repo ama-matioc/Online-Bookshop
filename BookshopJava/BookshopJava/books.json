@@ -1,0 +1,21 @@
+{
+    "year": 1845,
+    "author": "Charlotte Bronte",
+    "price": 20.99,
+    "id": 1878,
+    "title": "Jane Eyre"
+}
+{
+    "year": 1817,
+    "author": "Jane Austen",
+    "price": 27.99,
+    "id": 1989,
+    "title": "Persuasion"
+}
+{
+    "year": 1890,
+    "author": "Charles Dickens",
+    "price": 29.99,
+    "id": 2378,
+    "title": "Great Expectations"
+}
